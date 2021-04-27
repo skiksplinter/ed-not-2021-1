@@ -1,3 +1,4 @@
+//inversor de pilha
 import { Stack } from './lib/Stack.mjs'
 
 const texto = 'Socorram-me, subi no ônibus em Marrocos'
